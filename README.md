@@ -6,10 +6,10 @@ Credits
 License
 
 Description
-A professional portfolio made with REACT to so case all of my achivenment through the Coding Bootcamp.
+A professional portfolio made with REACT to so case all of my achievements through the Coding Bootcamp.
 
 Installation
-
+https://fathomless-stream-45061-8509282974f9.herokuapp.com/
 
 Credits
 -Help from Course provided solution code 
